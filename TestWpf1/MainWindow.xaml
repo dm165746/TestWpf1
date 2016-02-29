@@ -24,7 +24,7 @@
     <Grid>
         <Border BorderThickness="2" CornerRadius="100" />
         <StackPanel>
-                <Button Name="txtButton1" Content="Button 1"/>
+                <Button Name="txtButton1" Content="Button 1" ToolTip="This is a Tool tip"/>
                 <Button Name="txtButton2" Content="Button 2" Style="{StaticResource GreenButton}" />
                 <Button Name="txtButton3" Content="Button 3" Style="{StaticResource RedButton}" />
                 <Button Name="txtButton4" Content="Button 4"/>
