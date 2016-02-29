@@ -29,6 +29,7 @@
                 <Button Name="txtButton3" Content="Button 3" Style="{StaticResource RedButton}" />
                 <Button Name="txtButton4" Content="Button 4"/>
                 <Button Name="txtButton5" Content="Button 5"/>
+                <Button Name="txtButton6" Content="Button 6"/>
         </StackPanel>
     </Grid>
 </Window>
